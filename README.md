@@ -16,16 +16,6 @@ This is an anonymous repository for our paper An End-to-End Model for Logits Bas
 - move the generated `.so` file into `watermark/exp_edit/cython_files/`
 
 
-#### Applying evaluation pipelines
-```
-
-### More user examples
-
-Additional user examples are available in `test/`. To execute the scripts contained within, first run the following command to set the environment variables.
-
-```bash
-export PYTHONPATH="path_to_the_MarkLLM_project:$PYTHONPATH"
-```
 ### Repository Structure
 The project structure is as follows.
 - XXXXXX
