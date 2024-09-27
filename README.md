@@ -1,6 +1,6 @@
 # An End-to-End Model for Logits Based Large Language Models Watermarking
 
-This is an anonymous repository for our paper An End-to-End Model for Logits Based Large Language Models Watermarking submitted on ICLR2025. During the paper review period, we would like to use this temporary anonymous repository for code release.
+This is an anonymous repository for our paper An End-to-End Model for Logits Based Large Language Models Watermarking submitted on ICLR 2025. During the paper review period, we would like to use this temporary anonymous repository for code release.
 
 ### Basic Setup
 
